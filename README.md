@@ -5,4 +5,4 @@ To solve this problem, an end-to-end web application built in Dash was deployed 
 
 ## Certification
 [DS4A / Colombia 6.0: Graduated with Honors](https://www.credential.net/e7e3f94a-f40a-4e2f-80bb-c2dca946dd1d#gs.4u952z)
-![Alt text](certificado%20DS4A.pdf?raw=true)
+![Alt text](certificado%20DS4A.jpg?raw=true)
