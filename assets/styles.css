@@ -1,0 +1,43 @@
+.content{
+ width: 100%;
+ background: #F7F7F7;
+ }
+
+.complete_content{
+ position:absolute;
+ top: 32px;
+ right: 32px;
+ left: 285px;
+ }
+
+.left_content{
+ position:absolute;
+ top: 32px;
+ right: 600px;
+ left: 285px;
+ }
+
+.right_content{
+ position:absolute;
+ top: 32px;
+ right: 32px;
+ left: 850px;
+ }
+
+.top_metrics {
+ height: 200px;
+ width:100%;
+ position:relative;
+ top: 0;
+ right: 0;
+ border-radius: 5px;
+ }
+
+.right_menu {
+ height: 25%;
+ width: 10%;
+ position:absolute;
+ top: 10px;
+ right: 10px;
+ }
+
